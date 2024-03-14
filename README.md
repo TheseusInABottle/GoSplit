@@ -1,4 +1,4 @@
-# GoSplit + Timecode Formater
+# GoSplit + Timecode Formatter
 ---
 Quick and easy tool, build it using the go compiler and it should just work.
 Timestamp files should be a CSV formatted as follows [Start Time, End Time] the formats for the start and end time should be 00:00:00 style. Thats Hours::Minutes::Seconds.
